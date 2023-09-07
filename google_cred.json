@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "psytetrica",
+  "private_key_id": "fcef0905e7fe404e1ac24603e39018ca60c823af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzWA3TxG2bkVd4\njlQQF24uqlIv+MC2neHa+NsrUa+msAFZRFblEttgoSXKehOEEwzpAhYiWe5CQi0M\nk77r6kib3R4Iv2XpDLCv74DBapjL2S/mCSGa5kwlKkIg+mtR87hpXsG2AIx4V6s1\nm1y7MQK2J2n9nS3S1HB72wmf3NKeR+k3gHHHUrWVi8abRGyH+DzAgR/CRvvZB0U6\nqrzTEC2k6D+CITvmWI0iM+RpE+5fTunglD5GbZzShKZqN/EzLIO76Eoy0q+MHOZZ\nZ0yskyaiHP7VoXiDK/sIW98qBzIiK6eDHrrhTNl2qTa0eb31+lIxq9WzQjSZ3pUv\nUTrQSLwzAgMBAAECggEAT4KHRs58BY9PJ0x6alPo7llmbIws7Alc+1Z+3FqvtAet\n4WSR3acZiWKIPZcXleNYQulA5OPX5JowHLZX24GXxTonuZsZVFPi9W0KOTXIHf/g\n42xC8MiPE58DiFldQQz7QgPXf5gIrsW3SuHhH8BfwmAA9oY7rY+vesmmH7Cn07Gw\n09di4NXnkao7aLeAluFLoKplJWoldTlc8YANREe44eM8S2MEcOQXtw6ojOGL2zXw\nzrgWLY+wNYJ30xmeqrnZOxKDm8NFM7uyRagu2coEWmBOTV7IhqOyJtfHtF+7i9j8\nPGbRnL4uqYkhXX79Ln+/VjT2HV+JEOSdZ2hk9U/8qQKBgQDuqGohcvC2julpxGXq\nwyNbq4wGByBwNscYCwXKNVUgIkae0tAtd6TJM6+HoPUTWWY0ZKLH6JdwRIGOPYy4\n8eR8rWqH8tt5z56TlrdTnB6pNvzgHK2iKAmqexpCmqKie+eKf7+lxAl/txmW4/Ba\ncywucy0bpyhENHIiJW46eofKBQKBgQDAYEOoMtL3Nubm3LYowg6hSp2Oq7GXS88L\nG1pZHDF6c44OnxfSi7Px7pWQkTpZCdKldc2PF8zWJ056MwR+XC9rTrUIP/U6TyI9\no0FHA6vvfUmmBC3SlwvJfnIg0+A7NbGR8pzWeQw8J7CWLcUuofGIy+TMQ+UWaU2g\nVctQf7hq1wKBgQCmH/84Z1zdht89K2PSJaFQJzph28YdtlOiDdIq7jLiGlnUJmSY\nsaa4E01E+Kp/nIRDRiX1R5dao6UXEQsKlf55NvFnzoot4XK9w3S7M3o4Sbl+exf2\nPy5zSBuAb0l0FxGWW9RYm/wMtbSPTv04yODhOHUWwaWKzIMB99IhzLcGzQKBgQCZ\nizv0/7vKfROGqBrsJRcwPTHMMdWpAGTcZJSUEyCar6humySUc9TIALl3jbKYZnKu\nhXvv/fsL4ouMlTO89y8R4twzHXlJdOfLcoYjfBa7K7CgxS0drFlIFZhaA0IxgAWe\ni5oKxMqzKKqU8ysysSbrHHIdZwNuA9ZlZpTER2yWOQKBgGPbpuoQ/kvVVoRg9ueu\nNQlrODEeTJh6hRrXFEHQH+WRnJhjyOsi+H++Z5PTjLMX3I2hxGE6KdZvOrr23SgI\n2l5/Q93zEPbwEBKgVo8BYqqtHIZXNCMBxxUsGcWSoltUv1o2FUIMduOkC13cmxp/\n+56QN0162CvOY94q4MujHSmd\n-----END PRIVATE KEY-----\n",
+  "client_email": "psytetrica@psytetrica.iam.gserviceaccount.com",
+  "client_id": "104011445917239377140",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/psytetrica%40psytetrica.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
